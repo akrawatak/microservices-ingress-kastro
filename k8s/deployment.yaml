@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: techsolutions
-        image: image: akash147258/techsolutions-app:latest
+        image: akash147258/techsolutions-app:latest
 
         ports:
         - containerPort: 80
